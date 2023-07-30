@@ -1,0 +1,106 @@
+[
+  {
+    "PropertyName": "Amba G Residency",
+    "Type": "House",
+    "Id": 1,
+    "Price": 12000,
+    "SellRent": 1,
+    "Image": "prop1"
+  },
+  {
+    "PropertyName": "VVIP Homes",
+    "Type": "House",
+    "Id": 2,
+    "Price": 15500,
+    "SellRent": 1,
+    "Image": "prop2"
+  },
+  {
+    "PropertyName": "Ashiana Greens",
+    "Type": "House",
+    "Id": 3,
+    "Price": 23000,
+    "SellRent": 1,
+    "Image": ""
+  },
+  {
+    "PropertyName": "Exotica DreamVille",
+    "Type": "House",
+    "Id": 4,
+    "Price": 19400,
+    "SellRent": 1,
+    "Image": "prop3"
+  },
+  {
+    "PropertyName": "14th Avenue",
+    "Type": "House",
+    "Id": 5,
+    "Price": 11000,
+    "SellRent": 2,
+    "Image": ""
+  },
+  {
+    "PropertyName": "Pam Olympia",
+    "Type": "House",
+    "Id": 6,
+    "Price": 18000,
+    "SellRent": 2,
+    "Image": "prop4"
+  },
+  {
+    "PropertyName": "Shipra Sun City",
+    "Type": "House",
+    "Id": 7,
+    "Price": 17000,
+    "SellRent": 1,
+    "Image": "prop5"
+  },
+  {
+    "PropertyName": "Prateek Fedora",
+    "Type": "House",
+    "Id": 8,
+    "Price": 13000,
+    "SellRent": 1,
+    "Image": "prop6"
+  },
+  {
+    "PropertyName": "Nirala Estate",
+    "Type": "House",
+    "Id": 9,
+    "Price": 32500,
+    "SellRent": 2,
+    "Image": "prop7"
+  },
+  {
+    "PropertyName": "Vijay House",
+    "Type": "House",
+    "Id": 10,
+    "Price": 13400,
+    "SellRent": 1,
+    "Image": "prop8"
+  },
+  {
+    "PropertyName": "Kalpatru Residency",
+    "Type": "House",
+    "Id": 11,
+    "Price": 10000,
+    "SellRent": 1,
+    "Image": "prop9"
+  },
+  {
+    "PropertyName": "Nivas Asthan",
+    "Type": "House",
+    "Id": 12,
+    "Price": 18000,
+    "SellRent": 2,
+    "Image": "prop10"
+  },
+  {
+    "PropertyName": "Cantabell House",
+    "Type": "House",
+    "Id": 13,
+    "Price": 32000,
+    "SellRent": 1,
+    "Image": ""
+  }
+]
